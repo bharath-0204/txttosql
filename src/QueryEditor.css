@@ -1,0 +1,20 @@
+.query-editor {
+    margin-bottom: 20px;
+  }
+  
+  .query-editor textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+  }
+  
+  .query-editor button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
